@@ -11,8 +11,8 @@ import FeaturedWorks from"./Featured"
 import Partners from "./Partners"
 import Insights from "../Insights/Insights";
 import Clients from "./clients"
-import Form from "./Form"
-import Footer  from "./Footer"
+import Form from "./form"
+import Footer  from "./footer"
 function HomePage() {
   return (
     <div>
