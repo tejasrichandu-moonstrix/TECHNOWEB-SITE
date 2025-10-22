@@ -5,7 +5,7 @@ import HomePage from "./components/homePage/homePage";
 import AboutUs from "./components/aboutUs/aboutUs";
 import OurServices from "./components/ourServices/ourServices";
 import Footer from "./components/homePage/footer";
-import Careers from "./components/careerPage/career";
+import Careers from "./components/careerPage/Career";
 import Projects from "./components/projects/project";
 import WebDevKnowMore from "./components/ourServices/webDevKnowMore";
 import Insights from "./components/Insights/insights";
